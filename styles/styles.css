@@ -1,0 +1,7 @@
+/* top players style  */
+.top-players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /*or  we can write the same thing differently */
+    /* grid-template-columns: 1fr 1fr 1fr; */
+}
