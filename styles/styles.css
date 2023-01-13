@@ -141,4 +141,11 @@ hr {
     flex-direction: column;
   }
   /* courses section  */
+  .course{
+    margin: 5px 0px;
+  }
+  .course-info{
+    justify-content: flex-start;
+    gap: 18px;
+  }
 }
